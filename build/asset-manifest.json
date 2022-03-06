@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7a3f38d.css",
+    "main.js": "/static/js/main.324aab5f.js",
+    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/abtus.png": "/static/media/abtus.80771fb17d2cf4adfa8e.png",
+    "static/media/doctors.png": "/static/media/doctors.fe0a5c25e8568d32018a.png",
+    "static/media/comp.png": "/static/media/comp.4ee18fca7399c50b31e2.png",
+    "static/media/hospital.png": "/static/media/hospital.1f0f1fce7dff53bcdc1b.png",
+    "index.html": "/index.html",
+    "main.f7a3f38d.css.map": "/static/css/main.f7a3f38d.css.map",
+    "main.324aab5f.js.map": "/static/js/main.324aab5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7a3f38d.css",
+    "static/js/main.324aab5f.js"
+  ]
+}
